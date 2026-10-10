@@ -4,7 +4,7 @@
 ### Team Details
 #### **YUKTHI** <<YUKTHI>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | | DAYSCHOLAR OR HOSTELLER |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   | BHALASUBRAMANIYAN RAMAKRISHNAN              |CB.EN.U4ECE26009                      |MALE                 |                                 |  
 |    Member 2     |                         |                        |                 |                                 |  
