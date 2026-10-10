@@ -2,11 +2,11 @@
 
 ## GEN26-A0H-I051
 ### Team Details
-#### **Team Name** <<YUKTHI>> <br/>
+#### **YUKTHI** <<YUKTHI>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |          DF               |                        |                 |                                 |  
+|   Team Leader   | BHALASUBRAMANIYAN RAMAKRISHNAN              |                        |                 |                                 |  
 |    Member 2     |                         |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
